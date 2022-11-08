@@ -1,0 +1,12 @@
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\obj\Debug\snowfallFNA.csproj.AssemblyReference.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\obj\Debug\snowfallFNA.csproj.SuggestedBindingRedirects.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\obj\Debug\snowfallFNA.csproj.CoreCompileInputs.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\bin\Debug\snowfallFNA.exe.config
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\bin\Debug\snowfallFNA.exe
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\bin\Debug\snowfallFNA.pdb
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\bin\Debug\FNA.dll
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\obj\Debug\snowfallFNA.csproj.CopyComplete
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\obj\Debug\snowfallFNA.exe
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\obj\Debug\snowfallFNA.pdb
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\bin\Debug\Content\konoplya.png
+D:\Саша\Рабочий стол\Труд раба\Проги\snowfallFNA\snowfallFNA\bin\Debug\Content\sochi.jpg
